@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 Currently working on Development<br>👯 Looking to collaborate on Web Applications<br>🤝 Need help with AI/ML<br>🌱 Learning Cloud Computing<br>💬 LinkedIn - www.linkedin.com/in/sarthak-gupta-b2a6393ab
-
+🔭 Currently working on Development<br>👯 Looking to collaborate on Web Applications<br>🤝 Need help with AI/ML<br>🌱 Learning Cloud Computing<br>💬 LinkedIn - 
+(https://www.linkedin.com/in/sarthak-gupta-1114-/)
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sarthak-gupta-b2a6393ab) 
